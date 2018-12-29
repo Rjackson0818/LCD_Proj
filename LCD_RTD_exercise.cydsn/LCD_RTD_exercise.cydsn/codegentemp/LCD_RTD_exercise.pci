@@ -1,0 +1,19 @@
+# LCD_RTD_exercise
+# 2018-12-29 16:11:37Z
+
+# IO_0@[IOP=(1)][IoId=(0)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 0
+# IO_1@[IOP=(1)][IoId=(1)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 1
+# IO_3@[IOP=(1)][IoId=(3)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 3
+set_io "RTD_3_1(0)" iocell 0 0
+set_io "Calib_3_4(0)" iocell 0 5
+set_io "RTD_4_0(0)" iocell 0 1
+set_io "RTD_4_1(0)" iocell 0 2
+set_io "Calib_4_4(0)" iocell 0 6
+set_io "Calib_4_5(0)" iocell 0 4
+set_io "Rx_1(0)" iocell 12 6
+set_io "Tx_1(0)" iocell 12 7
+set_location "\IDAC:viDAC8\" vidaccell -1 -1 0
+set_location "\ADC:DSM\" dsmodcell -1 -1 0
