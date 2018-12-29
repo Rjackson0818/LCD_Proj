@@ -1,0 +1,6 @@
+D:\Folders\Documents\PSoC Creator\RTD_Pt100\LCD_RTD_exercise.cydsn\LCD_RTD_exercise.cyprj|87072502-b752-4776-88ae-def580d9a5ac
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|cffd50a5-4515-4c8b-acd7-71362666adac
+D:\Folders\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|4184e210-db9d-4fa8-8c4f-fe22c728a525
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|3d422fc7-ac4d-4e9e-a263-6278747c30dd
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|6ef145ba-53e8-4ad6-b3ed-a53f2f0f618d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|c081fdba-367f-4075-9393-bb089503cc00

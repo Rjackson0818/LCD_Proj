@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LCD_RTD_exercise-000</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\TopDesign</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\Pins</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\Analog</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\Clocks</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\Interrupts</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\DMA</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\System</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\Directives</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\Flash Security</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\EEPROM</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Header Files</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Header Files\cyapicallbacks.h</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Source Files</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Source Files\main.c</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LCD_RTD_exercise-000</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\TopDesign</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\Pins</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\Analog</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\Clocks</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\Interrupts</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\DMA</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\System</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\Directives</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\Flash Security</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.cydwr\EEPROM</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Header Files</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Header Files\cyapicallbacks.h</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Source Files</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Source Files\main.c</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\ADC</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\ADC_Ext_CP_Clk</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\ADC_IRQ</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\ADC_theACLK</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\ADCMux</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\Calib_3_4</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\Calib_4_4</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\Calib_4_5</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\CurrentMux</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\cy_boot</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\IDAC</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\LCD_Char_1</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\LCD_Char_1_LCDPort</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\RTD</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\RTD_3_1</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\RTD_4_0</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\RTD_4_1</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\UART_1</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\UART_1_IntClock</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\cycodeshareexport.ld</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\cycodeshareimport.ld</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\cycodeshareimport.scat</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\cydevice.h</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\cydevice_trm.h</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\cydevicegnu.inc</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\cydevicegnu_trm.inc</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\cydeviceiar.inc</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\Generated_Source\PSoC5\cydeviceiar_trm.inc</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LCD_RTD_exercise-000</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\TopDesign</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LCD_RTD_exercise-000</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\TopDesign</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LCD_RTD_exercise-000</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_Ext_CP_Clk.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_theACLK.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\ADCMux.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\Calib_3_4.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\Calib_4_4.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\Calib_4_5.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\CurrentMux.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\IDAC.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\IDAC_PM.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char_1.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char_1_LCDPort.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char_1_PM.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\RTD.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\RTD_3_1.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\RTD_4_0.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\RTD_4_1.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_INT.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_IntClock.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_PM.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\LCD_RTD_exercise.elf</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\LCD_RTD_exercise.hex</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\LCD_RTD_exercise.map</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.gpdsc</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.rpt</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LCD_RTD_exercise-000</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_Ext_CP_Clk.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_theACLK.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\ADCMux.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\Calib_3_4.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\Calib_4_4.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\Calib_4_5.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\CurrentMux.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\IDAC.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\IDAC_PM.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char_1.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char_1_LCDPort.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char_1_PM.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\RTD.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\RTD_3_1.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\RTD_4_0.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\RTD_4_1.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_INT.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_IntClock.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_PM.lst</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\LCD_RTD_exercise.elf</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\LCD_RTD_exercise.hex</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CortexM3\ARM_GCC_541\Debug\LCD_RTD_exercise.map</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.gpdsc</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\LCD_RTD_exercise.rpt</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LCD_RTD_exercise-000</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\PSoC 5LP Architecture TRM</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CY8C58LP Family Datasheet</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\System Reference Guides</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\System Reference Guides\cy_boot_v5_70</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\ADC_DelSig_v3_30.pdf</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\AMux_v1_80</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\AMux_v1_80\AMux_v1_80.pdf</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CharLCD_v2_20.pdf</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\cy_pins_v2_20</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\IDAC8_v2_0.pdf</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\RTDCalc_v1_20.pdf</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\UART_v2_50.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LCD_RTD_exercise-000</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\PSoC 5LP Architecture TRM</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CY8C58LP Family Datasheet</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\System Reference Guides</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\System Reference Guides\cy_boot_v5_70</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\ADC_DelSig_v3_30.pdf</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\AMux_v1_80</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\AMux_v1_80\AMux_v1_80.pdf</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\CharLCD_v2_20.pdf</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\cy_pins_v2_20</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\IDAC8_v2_0.pdf</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\RTDCalc_v1_20.pdf</v>
+<v>LCD_RTD_exercise-000\LCD_RTD_exercise\UART_v2_50.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\main.c" />
+<name v=".\TopDesign\TopDesign.cysch" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1324, 711" SelectedTabbedMdiWindow="972554f0-9d87-41de-9bde-b19159409068"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="f87347a5-d862-4543-8dc1-93be6dabbca7" /><DocumentWindow Key="D:\Folders\Documents\PSoC Creator\RTD_Pt100\LCD_RTD_exercise.cydsn\main.c" Guid="972554f0-9d87-41de-9bde-b19159409068" /><DocumentWindow Key="D:\Folders\Documents\PSoC Creator\RTD_Pt100\LCD_RTD_exercise.cydsn\TopDesign\TopDesign.cysch" Guid="cf036f51-6490-48e2-922c-6a19540d5cc9" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
